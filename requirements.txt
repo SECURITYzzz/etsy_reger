@@ -1,0 +1,9 @@
+aiohttp
+asyncio
+beautifulsoup4
+browserforge
+certifi
+loguru
+pendulum
+python-dotenv
+twocaptcha

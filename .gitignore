@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+.venv/
+env.bak/
+venv.bak/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Project specific
+logs/
+*.log
+output/
+output_json/
+config/settings.env
+config/proxies.txt
+config/recaptcha_tokens.json
+*.db
+*.exe
+dist/
+build/
+*.spec
