@@ -25,7 +25,7 @@ Automated registration of Etsy accounts with email confirmation, proxy rotation,
 ├── functions.py          # Utilities (password generation, path helpers)
 ├── headers.py            # Static HTTP headers templates
 ├── names.py              # First name pool for registration
-├── tls_client_app.exe    # External Go binary (not included in repository)
+├── tls_client_app.exe    # External Go binary
 ├── config/
 │   ├── settings.env      # API keys and settings (ignored by git)
 │   ├── proxies.txt       # List of HTTP proxies (ignored by git)
